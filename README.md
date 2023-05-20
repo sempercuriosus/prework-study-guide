@@ -38,7 +38,7 @@ There are no interactive components in this app. It is a viewable only web page.
 
 ## Credits
 
-- [Eric - sempercuriosus][https://github.com/sempercuriosus]
+- Eric [sempercuriosus][https://github.com/sempercuriosus]
 
 ---
 
